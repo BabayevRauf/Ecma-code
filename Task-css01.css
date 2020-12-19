@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.task01{
+    width: 400px;
+    height: 400px;
+    border: 20px solid;
+    box-sizing: border-box;
+}
+.task01 p{
+    padding-left: 70px;
+}
