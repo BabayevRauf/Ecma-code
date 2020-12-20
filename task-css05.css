@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.content{
+    display: inline-block;
+    cursor: pointer;
+}
+.content:hover::before{
+    content: attr(data-name);
+}
