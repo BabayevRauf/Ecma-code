@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+p{
+    display: inline-block;
+    cursor: pointer; 
+}
+
+p:hover:after{
+    content: "Rauf";
+    color: blue;
+}
